@@ -1,1 +1,1 @@
-# Baekjoon-Study
+# AI2 Project
